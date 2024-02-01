@@ -1,0 +1,12 @@
+{
+  "name": "golang-merkle",
+  "version": "1.0.0",
+  "description": "create merkle tree in golang and use it in solidity smart contracts",
+  "main": "merkle.go",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "go run merkle.go"
+  },
+  "author": "Jacopo Mosconi",
+  "license": "ISC"
+}
